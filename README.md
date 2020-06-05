@@ -5,3 +5,4 @@ Labs: Calibration and Triangulation
 
 Short Project: Human Psycho-physics: Kohonen Network
 
+Home WorK: Image Filtering, Edge Detection, Features, Matching
