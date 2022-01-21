@@ -1,3 +1,7 @@
+Designing a Kohonen Neural Network: learning rate, weights, clustering, classification
+
+Dataset, train set, test set:: Patient/Control classification
+
 To run the code kindly do the following:
 
 1. Change your current working directory of MATLAB to this folder.
@@ -13,5 +17,8 @@ To run the code kindly do the following:
 	************(Observe that this testing is performed on:: test_six_vamshi.txt)****************
 
 	Type 'help kohonen_train' or 'help kohonen_test' to more about those functions and example to run them explicitly.
+	
+---
+
 	
 Cheers!
